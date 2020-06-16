@@ -1,0 +1,28 @@
+.topbar .menu-item-brown:hover>.menu-link-brown, 
+.topbar .menu-item-brown.active>.menu-link-brown {
+    color: #4d5259;
+    border-top-color: #8d6658 !important;
+}
+
+.h-100vh{
+    height: 100vh !important;
+}
+
+.h-90vh{
+    height: 90vh !important;
+}
+
+.h-80vh{
+    height: 80vh !important;
+}
+.h-75vh{
+    height: 75vh !important;
+}
+.hero-section{
+    background-color: rgba(255,255,255,1);
+    background-image: url(../img/tabuler/bg-partern-3.svg), url(../img/tabuler/bg-partern-3.svg), url(../img/tabuler/bg-partern-2.svg), url(../img/tabuler/bg-partern-2.svg), url(../img/tabuler/bg-partern-4.svg);
+    background-position: 1% 2%, 99% 98%, 0% 98%, 99% 0%, 75% -50%;
+    background-repeat: no-repeat;
+    background-size: 70px, 70px, 50px, 50px, 500px;
+    background-attachment: scroll;
+}

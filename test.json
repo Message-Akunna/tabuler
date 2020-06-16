@@ -1,0 +1,73 @@
+{
+    "status": "Success",
+    "response": [
+        {
+            "period": [
+                {
+                    "id": "9",
+                    "period_name": "eight period",
+                    "time": "03:00:00"
+                }
+            ],
+            "week_day": [
+                {
+                    "id": "5",
+                    "day": "Friday"
+                }
+            ],
+            "course": [
+                {
+                    "id": "1",
+                    "name": "Artificial Intelligence",
+                    "course_code": "CMS 412",
+                    "department": "2"
+                }
+            ],
+            "hall": [
+                {
+                    "id": "1",
+                    "hall_name": "E810",
+                    "capacity": "240"
+                }
+            ],
+            "lecturer": [
+                {
+                    "id": "1",
+                    "first_name": "Maven",
+                    "last_name": "Gaibo",
+                    "other_names": "Dod",
+                    "gender": "male",
+                    "address": "26Th Ajimobi Street, Ibadan Oyo State Nigeria",
+                    "phoneno": "08138823382",
+                    "email": "maven@gmail.com",
+                    "password": "1234",
+                    "user_type": [
+                        {
+                            "id": "1",
+                            "department": [
+                                {
+                                    "id": "2",
+                                    "department_name": "Computer Science"
+                                }
+                            ],
+                            "course": [
+                                {
+                                    "id": "1",
+                                    "name": "Artificial Inteligence",
+                                    "course_code": "CMS 412",
+                                    "department": "2"
+                                }
+                            ],
+                            "reg_no": "1",
+                            "user_type": "lecturer"
+                        }
+                    ]
+                }
+            ],
+            "id": "1"
+        }
+    ],
+    "list_total": "1",
+    "pages": "1",
+    "message": ""
+}
